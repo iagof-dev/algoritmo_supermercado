@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\Super Mercado\\Super Mercado\\Super Mercado.csproj": {}
+    "C:\\Users\\N3rdy\\Desktop\\algoritmo_supermercado-main\\Super Mercado\\Super Mercado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\Super Mercado\\Super Mercado\\Super Mercado.csproj": {
+    "C:\\Users\\N3rdy\\Desktop\\algoritmo_supermercado-main\\Super Mercado\\Super Mercado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Super Mercado\\Super Mercado\\Super Mercado.csproj",
+        "projectUniqueName": "C:\\Users\\N3rdy\\Desktop\\algoritmo_supermercado-main\\Super Mercado\\Super Mercado.csproj",
         "projectName": "Super Mercado",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Super Mercado\\Super Mercado\\Super Mercado.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Super Mercado\\Super Mercado\\obj\\",
+        "projectPath": "C:\\Users\\N3rdy\\Desktop\\algoritmo_supermercado-main\\Super Mercado\\Super Mercado.csproj",
+        "packagesPath": "C:\\Users\\N3rdy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\N3rdy\\Desktop\\algoritmo_supermercado-main\\Super Mercado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Visual Studio\\Tools Sdks\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\N3rdy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
